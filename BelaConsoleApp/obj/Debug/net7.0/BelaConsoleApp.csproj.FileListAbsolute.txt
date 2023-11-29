@@ -1,0 +1,15 @@
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\bin\Debug\net7.0\BelaConsoleApp.exe
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\bin\Debug\net7.0\BelaConsoleApp.deps.json
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\bin\Debug\net7.0\BelaConsoleApp.runtimeconfig.json
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\bin\Debug\net7.0\BelaConsoleApp.dll
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\bin\Debug\net7.0\BelaConsoleApp.pdb
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\BelaConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\BelaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\BelaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\BelaConsoleApp.AssemblyInfo.cs
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\BelaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\BelaConsoleApp.dll
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\refint\BelaConsoleApp.dll
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\BelaConsoleApp.pdb
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\BelaConsoleApp.genruntimeconfig.cache
+C:\Users\mhgir\source\repos\BelaConsoleApp\BelaConsoleApp\obj\Debug\net7.0\ref\BelaConsoleApp.dll
